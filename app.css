@@ -1,0 +1,11 @@
+#ad-image{
+    width: 100px; height: 100px;
+    z-index: 9999;
+    position: absolute;
+    top:58%;
+    left:200px;
+}
+
+#video-div{
+    position: relative;
+}
