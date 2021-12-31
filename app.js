@@ -44,3 +44,4 @@ function ShowAd(options){
     },1000)
     videoInterval
 }
+module.exports.ShowAd = ShowAd;
